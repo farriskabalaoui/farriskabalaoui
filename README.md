@@ -1,4 +1,4 @@
-# Hi there I am @FarrisKabalaoui 👋
+# Hi, I am @FarrisKabalaoui 👋
 
 I am eager to contribute to team success through hard work, attention to detail, and excellent organizational and project management skills. 
 I have gained a considerable amount of experience with software project delivery with a focus on coordinating, designing, coding, testing, delivery, and operation. 
