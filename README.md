@@ -7,8 +7,8 @@ My strongest attributes are my natural leadership skills. I strive to inspire an
 I am motivated to engage, excel, and grow with the right challenging opportunity.
 
 - 🎓  I will graduate with a CS degree in 2023
-- 🌱 I’m currently learning React, Java and AI Technologies
-- 💻  Current Software Development Analyst at Citi 
+- 🌱 I’m currently learning React, Java, Python and AI concepts
+- 💻  Current Software Development Analyst @ Citi on the GenAI Shared Services Platform Team.
 - 📫 How to reach me: farris.kabalaoui@gmail.com
 - 📎  Checkout my personal website: https://react-portfolio-56032.web.app/
 - ⚡ Fun facts: I love basketball and soccer ⚽ 🏀
